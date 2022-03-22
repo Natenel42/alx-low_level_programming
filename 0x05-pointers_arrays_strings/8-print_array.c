@@ -5,7 +5,7 @@
  * @a: integeret character
  * @n: another integer character
  */
-void print_aray(int @a, int n)
+void print_aray(int *a, int n)
 {
 	int i;
 
