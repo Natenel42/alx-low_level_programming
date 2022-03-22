@@ -1,9 +1,7 @@
 #include "main.h"
 
 /**
- * reset_to_98 - takes a pointer to an int as parameter 
- * and updates the bvlaur in points to 98.
- *
+ * reset_to_98 - Entry Point
  * @n: pointer to n
  * Return: void
  */
